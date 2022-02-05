@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MyCurrentLocation</string>
+    <string name="location_tracker">Location Tracker</string>
+</resources>
